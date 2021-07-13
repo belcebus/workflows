@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T09:45:57.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="aMCeBcL2RtPW5D3CeGJD" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T09:49:33.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="o9kF49iJHeRo9-aTF856" version="14.8.6" type="github">
   <diagram id="iy8otpd0dxLt8Ig-Ym_F" name="Workflow-1">
-    <mxGraphModel dx="2734" dy="1489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1334" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,7 +376,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aC-6cmxcRIZIMmVNyTmy-86" value="Despliegues" parent="0" />
+        <mxCell id="aC-6cmxcRIZIMmVNyTmy-86" value="Despliegues" parent="0" visible="0" />
         <mxCell id="aC-6cmxcRIZIMmVNyTmy-87" value="Development" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;align=right;verticalAlign=bottom;labelPosition=left;verticalLabelPosition=middle;" parent="aC-6cmxcRIZIMmVNyTmy-86" vertex="1">
           <mxGeometry x="80" y="670" width="2330" height="70" as="geometry" />
         </mxCell>
@@ -785,7 +785,7 @@
         <mxCell id="mba0xVm1XPH_P8dEujyp-12" value="1.1.0-HF" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=10;" vertex="1" parent="aC-6cmxcRIZIMmVNyTmy-156">
           <mxGeometry x="1990" y="450" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aC-6cmxcRIZIMmVNyTmy-190" value="Despliegues - tags" parent="0" />
+        <mxCell id="aC-6cmxcRIZIMmVNyTmy-190" value="Despliegues - tags" parent="0" visible="0" />
         <mxCell id="aC-6cmxcRIZIMmVNyTmy-191" value="1.0.0-RC-1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=10;" parent="aC-6cmxcRIZIMmVNyTmy-190" vertex="1">
           <mxGeometry x="430" y="130" width="60" height="20" as="geometry" />
         </mxCell>
@@ -831,7 +831,7 @@
         <mxCell id="aC-6cmxcRIZIMmVNyTmy-205" value="1.2.0-SN-3" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=10;" parent="aC-6cmxcRIZIMmVNyTmy-190" vertex="1">
           <mxGeometry x="1880" y="750" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aC-6cmxcRIZIMmVNyTmy-206" value="Notas" parent="0" />
+        <mxCell id="aC-6cmxcRIZIMmVNyTmy-206" value="Notas" parent="0" visible="0" />
         <mxCell id="aC-6cmxcRIZIMmVNyTmy-207" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;shadow=1;" parent="aC-6cmxcRIZIMmVNyTmy-206" source="aC-6cmxcRIZIMmVNyTmy-208" target="aC-6cmxcRIZIMmVNyTmy-211" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
