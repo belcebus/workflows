@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T21:02:08.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="dbX-Dsjp488w06DpvGzI" version="14.9.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-29T08:32:17.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="zMgn66BeKK4WfmeJ2vEw" version="14.9.2" type="github" pages="6">
   <diagram id="iy8otpd0dxLt8Ig-Ym_F" name="GH-ReleaseWorkflow">
     <mxGraphModel dx="1346" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1242,7 +1242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="GitHub-Release-Flow" id="lOOD3LR4Ig2nb9kzAjVG">
-    <mxGraphModel dx="2115" dy="1388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2746" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="OvPeOdguO3lvUT1UUr5o-0" />
         <mxCell id="OvPeOdguO3lvUT1UUr5o-1" value="Git" parent="OvPeOdguO3lvUT1UUr5o-0" />
@@ -2168,10 +2168,10 @@
         <mxCell id="G9B3q6HqGmYg62Lh0XIf-4" value="1.0.0-SNAP" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=10;" parent="GKHd4ii7L0PWzsP1TC3w-0" vertex="1">
           <mxGeometry x="630" y="370" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G9B3q6HqGmYg62Lh0XIf-5" value="1.0.0-SNAP" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=10;" parent="GKHd4ii7L0PWzsP1TC3w-0" vertex="1">
+        <mxCell id="G9B3q6HqGmYg62Lh0XIf-5" value="1.0.0" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=10;" parent="GKHd4ii7L0PWzsP1TC3w-0" vertex="1">
           <mxGeometry x="470" y="170" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G9B3q6HqGmYg62Lh0XIf-6" value="1.0.0-SNAP" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=10;" parent="GKHd4ii7L0PWzsP1TC3w-0" vertex="1">
+        <mxCell id="G9B3q6HqGmYg62Lh0XIf-6" value="1.0.0" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=10;" parent="GKHd4ii7L0PWzsP1TC3w-0" vertex="1">
           <mxGeometry x="790" y="170" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G9B3q6HqGmYg62Lh0XIf-8" value="1.0.0-RC-2" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=10;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="GKHd4ii7L0PWzsP1TC3w-0" vertex="1">
@@ -3295,6 +3295,7 @@
         <mxCell id="7UOQnSAdp974WEnxq2K9-83" value="&lt;h1&gt;¿Necesario?&lt;/h1&gt;&lt;p&gt;Es necesaria la publicación de este artefacto si lo importante es la imagen Docker?&lt;/p&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;align=center;verticalAlign=bottom;fontColor=#ffffff;" vertex="1" parent="7UOQnSAdp974WEnxq2K9-80">
           <mxGeometry x="-400" y="1820" width="410" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="7UOQnSAdp974WEnxq2K9-84" value="PR details" parent="OvPeOdguO3lvUT1UUr5o-0" />
       </root>
     </mxGraphModel>
   </diagram>
