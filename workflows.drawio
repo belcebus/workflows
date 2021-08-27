@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T12:56:11.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="bixP6Zdfyv5htA7Mo6f0" version="14.9.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-27T12:58:09.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="ndIhjMgP3u_cM1iEtbQ1" version="14.9.8" type="github" pages="6">
   <diagram id="iy8otpd0dxLt8Ig-Ym_F" name="GH-ReleaseWorkflow">
     <mxGraphModel dx="1822" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1242,7 +1242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="GitHub-Release-Flow" id="lOOD3LR4Ig2nb9kzAjVG">
-    <mxGraphModel dx="3200" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="8279" dy="4637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="OvPeOdguO3lvUT1UUr5o-0" />
         <mxCell id="OvPeOdguO3lvUT1UUr5o-1" value="Git" parent="OvPeOdguO3lvUT1UUr5o-0" />
@@ -1884,7 +1884,7 @@
             <mxPoint x="2710.0000000001055" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRl2IRQvDa5DkC8QvLcf-15" value="AUT/QA" parent="OvPeOdguO3lvUT1UUr5o-0" />
+        <mxCell id="YRl2IRQvDa5DkC8QvLcf-15" value="QA" parent="OvPeOdguO3lvUT1UUr5o-0" visible="0" />
         <mxCell id="YRl2IRQvDa5DkC8QvLcf-19" value="QA" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;horizontal=0;verticalAlign=bottom;labelPosition=left;verticalLabelPosition=middle;align=center;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="YRl2IRQvDa5DkC8QvLcf-15" vertex="1">
           <mxGeometry x="-90" y="-310" width="4400" height="70" as="geometry" />
         </mxCell>
@@ -2434,7 +2434,7 @@
         <mxCell id="VvWfVdF7eCpK7fbg1eol-15" value="1.0.0-HF-2" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=10;dashed=1;opacity=50;" parent="jbLC4QVVSGG_b6C5n6co-0" vertex="1">
           <mxGeometry x="2470" y="-510" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kKEAve7NJ-_XMgIwjmLP-1" value="Notas" parent="OvPeOdguO3lvUT1UUr5o-0" visible="0" />
+        <mxCell id="kKEAve7NJ-_XMgIwjmLP-1" value="Notas" parent="OvPeOdguO3lvUT1UUr5o-0" />
         <mxCell id="G9B3q6HqGmYg62Lh0XIf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;endArrow=classic;strokeWidth=1;strokeColor=#82b366;fillColor=#d5e8d4;curved=1;" parent="kKEAve7NJ-_XMgIwjmLP-1" target="G9B3q6HqGmYg62Lh0XIf-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900.0000000000005" y="99.99999999999955" as="sourcePoint" />
@@ -2539,13 +2539,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VvWfVdF7eCpK7fbg1eol-18" value="&lt;h1&gt;Despliegue de HF&lt;/h1&gt;&lt;p&gt;Los HF pueden ser desplegados tanto en el entorno de PRE como en un entorno de PRO denominado Shadow y mediante mecanimo externo al workflow se pasa a real. Se debería poder configurar.&lt;/p&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;align=center;verticalAlign=bottom;fontColor=#ffffff;" parent="kKEAve7NJ-_XMgIwjmLP-1" vertex="1">
-          <mxGeometry x="2270" y="-533" width="410" height="120" as="geometry" />
+          <mxGeometry x="2210" y="-710" width="410" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VvWfVdF7eCpK7fbg1eol-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;strokeColor=#001DBC;fontColor=#ffffff;fillColor=none;" parent="kKEAve7NJ-_XMgIwjmLP-1" vertex="1">
-          <mxGeometry x="2460" y="-310" width="70" height="70" as="geometry" />
+          <mxGeometry x="2390" y="-470" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VvWfVdF7eCpK7fbg1eol-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;strokeColor=#001DBC;fontColor=#ffffff;fillColor=none;" parent="kKEAve7NJ-_XMgIwjmLP-1" vertex="1">
-          <mxGeometry x="2540" y="-310" width="70" height="70" as="geometry" />
+          <mxGeometry x="2470" y="-470" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VvWfVdF7eCpK7fbg1eol-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;strokeColor=#001DBC;fontColor=#ffffff;fillColor=none;" parent="kKEAve7NJ-_XMgIwjmLP-1" vertex="1">
           <mxGeometry x="2230" y="190" width="60" height="60" as="geometry" />
@@ -2580,7 +2580,7 @@
             <mxPoint x="2598.7867965644027" y="118.7867965644034" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkZJmgpgl567eIiIZYq8-30" value="Ideas mejora" parent="OvPeOdguO3lvUT1UUr5o-0" visible="0" />
+        <mxCell id="SkZJmgpgl567eIiIZYq8-30" value="Ideas mejora" parent="OvPeOdguO3lvUT1UUr5o-0" />
         <mxCell id="SkZJmgpgl567eIiIZYq8-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;strokeColor=#A50040;fontColor=#ffffff;fillColor=none;" parent="SkZJmgpgl567eIiIZYq8-30" vertex="1">
           <mxGeometry x="380" y="530" width="80" height="80" as="geometry" />
         </mxCell>
